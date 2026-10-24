@@ -1,8 +1,16 @@
-![Antibody JS Logo](images/logo.png)
-
 # Antibody JavaScript
 
+<div align="center">
+  <img src="images/anim/antibodyjs_2.svg" alt="Antibody JS Logo" width="360">
+</div>
+
 Antibody JavaScript is a browser-based 2D side-scrolling action game in which the player travels through the human body, destroys hostile viruses and enemy ships, avoids incoming fire, and protects healthy blood cells.
+
+
+<div align="center">
+  <img src="images/logo.png" alt="Antibody JS Logo" width="360"><br />
+  <img src="images/anim/scrolling_h.svg" alt="Created by Joe O'Regan" width="360">
+</div>
 
 [Play on GitHub Pages ⇗](https://joeoregan.github.io/JS-Antibody/game/) · [Play on Render ⇗](https://antibody-js.onrender.com/)
 
