@@ -21,7 +21,8 @@
 ![Stars](https://img.shields.io/github/stars/joeoregan/JS-Antibody?style=social)
 
 <div align="center">
-  <img src="docs/images/logo.png" alt="Antibody JS Logo" width="320">
+  <img src="docs/images/logo.png" alt="Antibody JS Logo" width="320"><br />
+  <img src="docs/images/anim/scrolling_h.svg" alt="Created by Joe O'Regan" width="320">
 </div>
 <p>Antibody: A 2D side-scrolling action game ported to JavaScript from C++ third-year project.</p>
 <p>Deployed to GitHub Pages and Render.</p>
