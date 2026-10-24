@@ -1,5 +1,3 @@
-
-
 # Antibody JavaScript
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
@@ -21,6 +19,7 @@
 ![Stars](https://img.shields.io/github/stars/joeoregan/JS-Antibody?style=social)
 
 <div align="center">
+  <img src="docs/images/anim/antibodyjs_2.svg" alt="Antibody JS Logo" width="320"><br />
   <img src="docs/images/logo.png" alt="Antibody JS Logo" width="320"><br />
   <img src="docs/images/anim/scrolling_h.svg" alt="Created by Joe O'Regan" width="320">
 </div>
