@@ -41,6 +41,8 @@
   <img src="docs/screenshots/screenshot2.jpg" alt="Antibody Extended Gameplay" width="600">
 </div>
 
+![Keyboard Controls](docs/images/anim/keyboard_controls.svg)
+
 <details open>
   <summary>1. Play the game</summary>
 

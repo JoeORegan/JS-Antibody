@@ -33,19 +33,6 @@ The JavaScript version includes:
 
     The blood-cell counter is an important part of the game: destroying too many healthy cells ends the game. The current timer is displayed but does not yet affect gameplay.
 
-## Controls
-
-| Action | Controls |
-| --- | --- |
-| Move | `W`, `A`, `S`, `D`; arrow keys; or on-screen directional buttons |
-| Fire laser | `Space`, mouse button, or on-screen `A` / `B` buttons |
-| Throw ninja star | `N`, or on-screen `X` / `Y` buttons |
-| Pause or resume | `P` |
-| Mute or unmute sound effects and music | `M` |
-| Skip music track backwards, forwards, random | `,` previous, `.` next, `/` random |
-| Display Frame Rate | `F1` |
-| Reset | `F5` |
-| Fullscreen | `F11` |
 
 ## From C++ to JavaScript
 
